@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1693597761 source:c:\users\anama.desktop-nlsikub\desktop\6anamos\seminarioalgoritmia\actividad2_sa_roblesmercado\clases-y-objetos\src\neurona.cpp
+	"Neurona.h"
+
+1693597214 c:\users\anama.desktop-nlsikub\desktop\6anamos\seminarioalgoritmia\actividad2_sa_roblesmercado\clases-y-objetos\include\neurona.h
+	<iostream>
+	<stdio.h>
+	<iomanip>
+
+1693598503 source:c:\users\anama.desktop-nlsikub\desktop\6anamos\seminarioalgoritmia\actividad2_sa_roblesmercado\clases-y-objetos\src\sistema.cpp
+	"Sistema.h"
+
+1693598503 c:\users\anama.desktop-nlsikub\desktop\6anamos\seminarioalgoritmia\actividad2_sa_roblesmercado\clases-y-objetos\include\sistema.h
+	<iostream>
+	<iomanip>
+	<list>
+	<Neurona.h>
+
+1693599978 source:c:\users\anama.desktop-nlsikub\desktop\6anamos\seminarioalgoritmia\actividad2_sa_roblesmercado\clases-y-objetos\main.cpp
+	<iostream>
+	"Sistema.h"
+
